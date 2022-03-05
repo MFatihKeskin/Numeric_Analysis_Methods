@@ -57,7 +57,5 @@ void iter(){
 int main(){
 	printf("\n\n\t\t\t\t~~~~NATURAL CUBIC SPLINE~~~~\n\n\n");//Description
     iter(); // use function in main func
-    //kitapta verilen algoritma ile kontrol ettim fakat bazı değerler farklı cıktı.matematiksel bir hata oldugunu düşünmüyorum.
-    //kodumdaki hatanın ne oldugunu bulamadıgım için değiştiremedim.eğer hatam gözünüze çarparsa geri dönüş sağlarsanız çok memnun olurum.
     return 0;
 }
